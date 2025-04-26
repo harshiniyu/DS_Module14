@@ -4,7 +4,7 @@
 To write a C program to delete three elements from the filled circular queue.
 
 ## Algorithm
-1. 1.	Start
+1. 	Start
 2.	Define a queue with a fixed size SIZE and initialize front and rear pointers.
 3.	Define the deQueue() function to remove and return an element from the front of the queue.
 4.	Check if the queue is empty using isEmpty(); if empty, print an error message.
