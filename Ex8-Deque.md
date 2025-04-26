@@ -4,7 +4,7 @@
 To write a C function to count the number of elements present in the deque.
 
 ## Algorithm
-1.1.	Start
+1.	Start
 2.	Define a function count() that takes an array arr as input.
 3.	Initialize a counter c to track the number of non-zero elements.
 4.	Loop through the array from index 0 to MAX-1.
